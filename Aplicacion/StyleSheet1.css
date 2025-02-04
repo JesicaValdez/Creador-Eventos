@@ -1,0 +1,16 @@
+﻿/*Custom Properties*/
+:root {
+    --primary-color: #4B5563;
+    --secondary-color: #3366FF;
+    --third-color: #FFFFFF;
+    --third-alpha-color: rgba(255, 255, 255, 0.90);
+    --black-color: #000000;
+    --cinza-color: #9CA3AF;
+    --cinza1-color: #6B7280;
+    --cinza-light-color: #F3F4F6;
+    --cinza-dark-color: #111827;
+    --cinza-dark1-color: #1F2937;
+   
+    --font-family: 'Inter', sans-serif;
+   
+}
